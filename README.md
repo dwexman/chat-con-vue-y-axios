@@ -1,3 +1,10 @@
+Made by: Denise Wexman, front-end developer from Chile.
+Experience developing web apps with React and Vue Js.
+You can contact me at: wexmandenise@gmail.com
+
+
+
+
 # vueApi
 
 This template should help get you started developing with Vue 3 in Vite.
